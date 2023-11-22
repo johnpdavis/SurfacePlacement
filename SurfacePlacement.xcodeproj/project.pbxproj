@@ -15,6 +15,7 @@
 		751DE5DD2AFDA80B00AB8C45 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 751DE5DC2AFDA80B00AB8C45 /* Assets.xcassets */; };
 		751DE5E02AFDA80B00AB8C45 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 751DE5DF2AFDA80B00AB8C45 /* Preview Assets.xcassets */; };
 		751DE5E82AFDC04900AB8C45 /* ARSessionController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 751DE5E72AFDC04900AB8C45 /* ARSessionController.swift */; };
+		75989F912B0EAEE800E6E752 /* PlacementUtilities.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75989F902B0EAEE800E6E752 /* PlacementUtilities.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		751DE5DF2AFDA80B00AB8C45 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		751DE5E12AFDA80B00AB8C45 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		751DE5E72AFDC04900AB8C45 /* ARSessionController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ARSessionController.swift; sourceTree = "<group>"; };
+		75989F902B0EAEE800E6E752 /* PlacementUtilities.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlacementUtilities.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				751DE5D62AFDA80A00AB8C45 /* ContentView.swift */,
 				751DE5D82AFDA80A00AB8C45 /* ImmersiveView.swift */,
 				751DE5E72AFDC04900AB8C45 /* ARSessionController.swift */,
+				75989F902B0EAEE800E6E752 /* PlacementUtilities.swift */,
 				751DE5DA2AFDA80A00AB8C45 /* ImageBasedLighting.skybox */,
 				751DE5DC2AFDA80B00AB8C45 /* Assets.xcassets */,
 				751DE5E12AFDA80B00AB8C45 /* Info.plist */,
@@ -165,6 +168,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				751DE5E82AFDC04900AB8C45 /* ARSessionController.swift in Sources */,
+				75989F912B0EAEE800E6E752 /* PlacementUtilities.swift in Sources */,
 				751DE5D72AFDA80A00AB8C45 /* ContentView.swift in Sources */,
 				751DE5D52AFDA80A00AB8C45 /* SurfacePlacementApp.swift in Sources */,
 				751DE5D92AFDA80A00AB8C45 /* ImmersiveView.swift in Sources */,
